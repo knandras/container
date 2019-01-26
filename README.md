@@ -1,6 +1,10 @@
 # container
 Container bookmarks
 
-# Runnable tomcat tutorial
+# Java
 
 https://runnable.com/docker/java/dockerize-your-java-application
+
+# Logging
+
+https://logz.io/blog/docker-logging/
